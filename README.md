@@ -61,7 +61,13 @@ The dashboard helps identify key business trends and supports data-driven decisi
 
 ## 📷 Dashboard Preview
 
-Add your Power BI dashboard screenshot here.
+## 📷 Dashboard Preview
+
+![Dashboard Top](dashboard-top.png)
+
+![Dashboard Middle](dashboard-middle.png)
+
+![Dashboard Bottom](dashboard-bottom.png)
 
 ## 📂 Project Files
 
