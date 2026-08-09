@@ -1,8 +1,6 @@
 # E-Commerce-Sales-Analytics-PowerBI
 E-Commerce Sales Analytics Dashboard using Power BI
 
-# E-Commerce Sales Analytics Dashboard
-
 ## 📊 Project Overview
 
 An interactive E-Commerce Sales Analytics Dashboard built using Microsoft Power BI to analyze sales, profit, orders, products, regions, categories, and customer segments.
@@ -61,13 +59,11 @@ The dashboard helps identify key business trends and supports data-driven decisi
 
 ## 📷 Dashboard Preview
 
-## 📷 Dashboard Preview
-
 ![Dashboard Top](dashboard-top.png.png)
 
 ![Dashboard Middle](dashboard-middle.png.png)
 
-![Dashboard Bottom](dashboard-bottom.png.png)
+![Dashboard Bottom](dashboard-bottom.png (2).png)
 
 ## 📂 Project Files
 
