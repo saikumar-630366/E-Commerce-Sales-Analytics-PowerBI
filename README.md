@@ -63,11 +63,11 @@ The dashboard helps identify key business trends and supports data-driven decisi
 
 ## 📷 Dashboard Preview
 
-![Dashboard Top](dashboard-top.png)
+![Dashboard Top](dashboard-top.png.png)
 
-![Dashboard Middle](dashboard-middle.png)
+![Dashboard Middle](dashboard-middle.png.png)
 
-![Dashboard Bottom](dashboard-bottom.png)
+![Dashboard Bottom](dashboard-bottom.png.png)
 
 ## 📂 Project Files
 
